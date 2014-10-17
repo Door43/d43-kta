@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[kta:home|Door43 (kta)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-kta|d43-kta repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-kta/archive/master.zip|d43-kta.zip]]
+
+**Recent Changes**
+{{changes>ns = kta}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/kta|Ethnologue data]]
+
